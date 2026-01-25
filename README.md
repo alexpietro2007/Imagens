@@ -8,7 +8,7 @@ Este repositório serve exclusivamente para hospedagem de imagens e recursos vis
 
 | Visualização | Nome do Arquivo | Link Direto (Raw) |
 | :---: | :--- | :--- |
-| <img src="(https://github.com/alexpietro2007/Imagens/blob/main/Regras.jpg?raw=true)" width="100"> | `Banner-Regras` | [Clique aqui](https://github.com/alexpietro2007/Imagens/blob/main/Regras.jpg?raw=true) |
+| <img src="((https://raw.githubusercontent.com/alexpietro2007/Imagens/main/Regras.jpg))" width="100"> | `Banner-Regras` | [Clique aqui]((https://raw.githubusercontent.com/alexpietro2007/Imagens/main/Regras.jpg)) |
 
 ---
 
