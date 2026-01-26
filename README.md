@@ -8,10 +8,11 @@ Este repositório serve exclusivamente para hospedagem de imagens e recursos vis
 
 | Visualização | Nome do Arquivo | Link Direto (Raw) |
 | :---: | :--- | :--- |
-| <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/image.png" width="200"> | `Banner-Servidor` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/image.png) |
+| <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/image.png" width="100"> | `Logo-Servidor` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/image.png) |
 | <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/main/Regras.jpg" width="100"> | `Logo-Regras` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/main/Regras.jpg) |
 | <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/Banner.png" width="200"> | `Banner-Servidor` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/Banner.png) |
 <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/599d82fe605ffa4b9afb530d6d48ba1f.jpg" width="100"> | `Logo_Ticket` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/599d82fe605ffa4b9afb530d6d48ba1f.jpg) |
+| <img src="https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/logoSemFundo.png" width="100"> | `Logo-Sem_fundo` | [Clique aqui](https://raw.githubusercontent.com/alexpietro2007/Imagens/refs/heads/main/logoSemFundo.png) |
 
 ---
 
